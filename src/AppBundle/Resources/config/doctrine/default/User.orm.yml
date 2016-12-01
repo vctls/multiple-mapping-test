@@ -1,3 +1,4 @@
+# Resources/config/doctrine/default/User.orm.yml
 AppBundle\Entity\User:
     type: entity
     table: user

@@ -1,3 +1,4 @@
+# Resources/config/doctrine/postgres/User.orm.yml
 AppBundle\Entity\User:
     type: entity
     schema: admin
